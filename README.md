@@ -1,39 +1,53 @@
+🌟 Bekzhan Kimadiyev | Fullstack Software Engineer
+Hi there! 👋 I'm Bekzhan, a Software Engineer at Nazarbayev University (CS '26) specializing in building scalable Backend architectures and AI-driven applications. I focus on creating production-ready systems using Python (FastAPI, Django) and Modern Frontend (React, Next.js).
 
-# 🌟 Welcome to BekzhanK1's GitHub Profile! 🌟
+🛠️ Technologies & Tools
+Languages:
 
-Hi there! 👋 I'm Bekzhan, a dedicated software developer specializing in **Go (Golang)** and **Python**. I’m passionate about creating efficient and scalable solutions, constantly exploring new technologies, and pushing the boundaries of what's possible. I’m always striving to improve my skills and deliver high-quality projects. Here, you'll find a diverse collection of my work, showcasing my contributions, experiments, and continuous growth as a developer.
+Backend Ecosystem: Django 5, FastAPI, DRF, Celery, Redis, RabbitMQ.
 
-## 🛠️ Technologies & Tools
+Frontend Ecosystem: React 19, Next.js 15 (App Router), Tailwind CSS 4, Zustand, React Query.
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-- **Frameworks & Libraries:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
- - **Tools & Platforms:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-## 🌱 What I'm Currently Working On
+Databases & Infrastructure: PostgreSQL (Optimization & Indexing), Docker, GitHub Actions (CI/CD), AWS, Linux.
 
--   Enhancing my **Go** and **Python** expertise through hands-on projects.
--   Delving into **cloud computing** and **microservices architecture** to build scalable systems.
--   Collaborating on **commercial projects** with a development team to sharpen my teamwork and project management skills.
-## ✨ Projects Highlights
+AI/ML Integration: OpenAI API, Google Gemini, Whisper, LangChain, RAG Architecture.
 
-Here are a few projects that I'm most proud of:
+🏗️ Featured Projects
+🎓 International Future School Astana (Enterprise LMS)
+Architected a multi-tenant school management system with a 5-tier RBAC system and complete data isolation.
 
--   **[protosedu.kz (formerly vunderkids.kz)](https://github.com/BekzhanK1/vunderkids)**  
-    **Description:** protosedu.kz is an innovative **e-learning platform** designed for school students, offering a modern approach to studying subjects such as mathematics, English, and more. The platform emphasizes **gamification** to enhance student engagement, making learning enjoyable and rewarding through game-based motivation.
-    
--   **[AI Learning Management System](https://github.com/AlikhanNasa7/Telegram-Mini-App)**  
-    **Description:** This **Telegram-based application** generates personalized learning paths, including course materials and assignments tailored to the user's proficiency level and focus area. By leveraging AI, the app creates customized educational experiences that adapt to individual learning needs.
-    
--   **[Ican](https://github.com/ZhBauyrzhan/iCan_server)**  
-    **Description:** Ican is a comprehensive **productivity enhancement web application** that centralizes essential tools for efficient task management. It integrates with **Google Calendar, Microsoft Calendar**, and supports OAuth 2.0 authentication. The app facilitates **virtual meetings** with services like **Google Meet, Microsoft Teams, and Zoom**, and offers AI-powered meeting summaries. Additionally, it incorporates tools like **Miro, Jira, Asana, and Slack**, reducing the need to switch between multiple tabs and enhancing overall productivity.
-    
+Engineered an automated scheduling engine and a complex assessment system with algorithmic partial grading logic.
 
-Feel free to explore the rest of my repositories for more!
+Tech: Django 5, Next.js 15, Microsoft Graph API, Celery, Redis.
 
-## 📈 GitHub Stats
-![BekzhanK1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzhanK1&show_icons=true&theme=radical)
+🤖 MoodLog (AI-Powered Journaling)
+Developed an asynchronous AI pipeline using FastAPI Background Tasks for sentiment analysis and Whisper-based voice transcription.
 
-## 🔗 Let's Connect
+Implemented AES-256 Envelope Encryption for user entries and atomic JWT rotation logic.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekzhan-kimadiyev-8b803b2b7)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bkimadieff)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/the_b_d)
+Tech: FastAPI, GPT-4o, Whisper, React, Webkassa.kz integration.
+
+🚀 Protosedu.kz (E-learning Ecosystem)
+Built a comprehensive e-learning platform with gamified mechanics and automated billing via Halyk Epay 2.0.
+
+Utilized OpenAI/Gemini APIs to automate educational content generation for teachers.
+
+Tech: Django 5, React 18, WebSockets, Docker, Sentry.
+
+🧖‍♂️ Sauna (B2B Booking & SaaS)
+Engineered a B2B SaaS platform for bath complex management with a dynamic pricing engine and RBAC.
+
+Built an asynchronous notification layer integrating Telegram, WhatsApp, and SMS gateways.
+
+Tech: Django, DRF, React, Celery, Redis, Docker.
+
+🌱 Currently Exploring
+
+Advanced RAG (Retrieval-Augmented Generation) techniques and AI Agents.
+
+Optimizing PostgreSQL performance for high-load SaaS applications.
+
+🔗 Let's Connect
+.
+
+Email: bkimadieff@gmail.com.
