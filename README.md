@@ -32,7 +32,7 @@ Currently a **Fullstack Software Engineer at [Smart Remont](https://smartremont.
 - FastAPI, SQLAlchemy, APScheduler, React 19, Mantine
 
 **[Sauna](https://github.com/BekzhanK1/sauna-backend)** — B2B booking platform
-- Dynamic pricing with time-based discounts; booking notifications through Telegram, WhatsApp and SMS.
+- Promo pricing (happy hours, birthday discount, free bonus hour), SMS booking confirmation, bonus program, Telegram notifications.
 - Django, DRF, Celery, Redis, React, Docker · [backend](https://github.com/BekzhanK1/sauna-backend) · [frontend](https://github.com/BekzhanK1/sauna-frontend)
 
 ### Stack
