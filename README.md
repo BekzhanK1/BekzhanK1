@@ -1,58 +1,52 @@
-# 🚀 Bekzhan Kimadiyev | Fullstack Software Engineer
+# Bekzhan Kimadiyev
 
-**Final-year Computer Science Student @ Nazarbayev University** (Expected June 2026)
-*Specializing in scalable Backend architectures, AI-driven solutions, and Enterprise systems.*
+Software engineer in Astana, Kazakhstan. I build backend systems and the tools around them: APIs, databases, integrations, and the occasional desktop add-in.
 
----
-
-### 🛠️ Tech Stack & Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | **FastAPI**, **Django 5**, **DRF**, **Celery**, **Redis**, **RabbitMQ**, **WebSockets** |
-| **Frontend** | **React 19**, **Next.js 15 (App Router)**, **Tailwind CSS 4**, **React Query**, **Zustand** |
-| **AI & ML** | **OpenAI API**, **Google Gemini**, **Whisper (ASR)**, **Prompt Engineering**, **RAG Architecture** |
-| **Infrastructure** | **Docker**, **GitHub Actions (CI/CD)**, **AWS (S3/IAM)**, **PostgreSQL (Optimization)**, **Linux** |
+Currently a **Fullstack Software Engineer at [Smart Remont](https://smartremont.kz)** and a **Master's student at Nazarbayev University** (B.Sc. in Computer Science, NU, 2026).
 
 ---
 
-### 🏗️ Featured Projects
+### Work
 
-#### 🎓 International Future School Astana
-**[[Backend Repository](https://github.com/BekzhanK1/django-future-school-backend)]** | **[[Frontend Repository](https://github.com/AlikhanNasa7/FutureSchoolFrontend)]**
-* Architected a multi-tenant ecosystem with a **5-tier RBAC system** and complete data isolation.
-* Developed an automated scheduling engine and a complex assessment system with algorithmic partial grading.
-* Optimized system responsiveness for **5,000+ active users** using background task clusters.
-* **Key Tech:** Django 5, Next.js 15, Microsoft Graph API, Celery, Redis.
+**Smart Remont** — renovation company, internal business platform
+- Backend services on Django REST Framework over PostgreSQL stored procedures: client requests, estimates, change orders.
+- A Revit 2025 add-in (C#, .NET 8, WPF) that lets designers pull a client request into a Revit model and send room areas, measurements and work volumes straight to the backend.
+- Payment and banking integrations on FastAPI, including installment plans and digital document signing.
 
-#### 🤖 [MoodLog](https://github.com/search?q=moodlog+user:BekzhanK1&type=repositories) (AI-Powered Journaling)
-* Engineered an **asynchronous AI pipeline** for real-time sentiment analysis and voice transcription via Whisper.
-* Implemented **AES-256 Envelope Encryption** for entries and atomic JWT rotation logic for maximum security.
-* Designed an analytics engine to track business metrics: **DAU/MAU, Retention, and MRR**.
-* **Key Tech:** FastAPI, GPT-4o, Whisper, React, Webkassa.kz.
+### Selected projects
 
-#### 🧖‍♂️ Sauna (B2B SaaS Platform)
-**[[Backend Repository](https://github.com/BekzhanK1/sauna-backend)]** | **[[Frontend Repository](https://github.com/BekzhanK1/sauna-frontend)]**
-* Developed a comprehensive B2B booking platform with a **dynamic pricing engine** and "Happy Hours" logic.
-* Architected an asynchronous notification layer for **Telegram, WhatsApp, and SMS** alerts.
-* **Key Tech:** Django, DRF, React, Celery, Redis, Docker.
+**[Future School](https://github.com/BekzhanK1/django-future-school-backend)** — LMS for International Future School Astana
+- Multi-tenant platform with role-based access across five roles and full data isolation between schools.
+- Automatic timetable generation; assessments with partial-credit grading.
+- Serves 5,000+ users; heavy work runs in Celery workers.
+- Django 5, Next.js 15, Celery, Redis, Microsoft Graph API · [backend](https://github.com/BekzhanK1/django-future-school-backend) · [frontend](https://github.com/BekzhanK1/future-school-frontend)
 
----
+**[MoodLog](https://github.com/BekzhanK1/moodlog-backend)** — AI journaling app
+- Async pipeline for voice transcription (Whisper) and sentiment analysis (GPT-4o).
+- Entries encrypted at rest with AES-256 envelope encryption; JWT refresh-token rotation.
+- Product analytics: DAU/MAU, retention, MRR; payments via Webkassa.kz.
+- FastAPI, React · [backend](https://github.com/BekzhanK1/moodlog-backend) · [frontend](https://github.com/BekzhanK1/moodlog-frontend)
 
-### 📈 GitHub Statistics
-![BekzhanK1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzhanK1&show_icons=true&theme=radical)
+**[Monty](https://github.com/BekzhanK1/monty-finance)** — personal finance and meal planning
+- Budgets, transactions and analytics with a Telegram integration; weekly meal plans built from a dish and ingredient catalog.
+- FastAPI, SQLAlchemy, APScheduler, React 19, Mantine
 
----
+**[Sauna](https://github.com/BekzhanK1/sauna-backend)** — B2B booking platform
+- Dynamic pricing with time-based discounts; booking notifications through Telegram, WhatsApp and SMS.
+- Django, DRF, Celery, Redis, React, Docker · [backend](https://github.com/BekzhanK1/sauna-backend) · [frontend](https://github.com/BekzhanK1/sauna-frontend)
 
-### 🌱 Currently Exploring
-* **Advanced AI:** Exploring **AI Agents** and advanced **RAG** (Retrieval-Augmented Generation) techniques.
-* **Performance:** Advanced **PostgreSQL** query optimization and indexing strategies.
+### Stack
 
----
+| | |
+| :-- | :-- |
+| **Languages** | Python, TypeScript, C#, SQL |
+| **Backend** | Django, DRF, FastAPI, Celery, Redis, RabbitMQ, WebSockets |
+| **Data** | PostgreSQL (stored procedures, query tuning), SQLAlchemy |
+| **Frontend** | React, Next.js, Vue 3 / Quasar, Tailwind CSS |
+| **AI** | OpenAI API, Whisper, Gemini, RAG |
+| **Infra** | Docker, GitHub Actions, AWS S3, Linux |
+| **Desktop** | .NET 8, WPF, Revit API |
 
-### 🔗 Let's Connect
-* **LinkedIn:** [linkedin.com/in/bekzhan-kimadiyev](https://www.linkedin.com/in/bekzhan-kimadiyev-8b803b2b7/)
-* **Telegram:** [@the_b_d](https://t.me/the_b_d)
-* **Email:** [bkimadieff@gmail.com](mailto:bkimadieff@gmail.com)
-* **Location:** Astana, Kazakhstan 🇰🇿
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/bekzhan-kimadiyev-8b803b2b7/) · [Telegram](https://t.me/the_b_d) · [bkimadieff@gmail.com](mailto:bkimadieff@gmail.com)
